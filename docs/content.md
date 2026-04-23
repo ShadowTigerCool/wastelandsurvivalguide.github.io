@@ -114,7 +114,7 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
 
 ### [The Great DLC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/96503)
 
-Overhauls many Mojave DLC locations to be more useful, cluttered, atmospheric, unique and if applicable,
+Overhauls many Mojave DLC locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
 
 - Main File - The Great DLC Interior Overhaul
 
@@ -130,7 +130,7 @@ Adds many intense and unique locations, new items, companions, and quests to the
 
 #### Installation:
 
-- Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
+- Main File - [AWorldOfPainFO3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
 
 ### Sweet Pain NV
@@ -181,7 +181,7 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
 
-### [Trooper's TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
+### [Trooper's Patch Page](https://www.nexusmods.com/newvegas/mods/78465)
 
 A collection of compatibility patches for TTW and various mods.
 
